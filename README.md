@@ -1,17 +1,16 @@
 # Merhaba, ben Mehmet Çepni 👋  
 
-🚗 **Otomotiv Yazılımı & JavaFX Geliştiricisi** | ASP.NET Core MVC | NLP & Mobil Projeler  
+🚗 JavaFX Geliştiricisi | ASP.NET Core MVC | NLP & Mobil Projeler  
 
 💻 Yazılım ile otomotiv teknolojilerini birleştirme hedefiyle projeler geliştiriyorum.  
 🤖 NLP ve makine öğrenmesi tabanlı projeler üzerinde deneyim kazanıyorum.  
 
 ---
 
-## 🔧 Yetenekler
-- **Programlama Dilleri:** Java, C#, Python, JavaScript, Dart  
-- **Framework & Kütüphaneler:** JavaFX, ASP.NET Core MVC, Flutter, ML.NET, Flask  
-- **Veri Tabanı:** MySQL, PostgreSQL, MSSQL  
-- **Araçlar & Teknolojiler:** Git, GitHub, Docker, REST API, CAN Bus (temel), Gömülü Sistemler (başlangıç)  
+## 🛠️ Teknolojiler & Araçlar
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,python,javascript,react,flutter,dotnet,postgres,mysql,mongodb,git,docker" />
+</p>
 
 ---
 
