@@ -28,11 +28,5 @@
 
 ---
 
-## 🌐 Sosyal Bağlantılar
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehmetcepni)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-%C3%A7epni-582582279/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mehmetepni)  
-
----
 
 ![Visitors](https://komarev.com/ghpvc/?username=mehmetcepni&label=Profil%20Ziyaretleri&color=0e75b6&style=flat)  
